@@ -12,4 +12,4 @@ Feature: Is it Friday yet?
       | "Sunday"         | "Nope" |
       | "anything else!" | "Nope" |
       | "Test"           | "Nope" |
-# test
+# NewBranch
